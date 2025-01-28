@@ -1,0 +1,2 @@
+streamlit==1.25.0  # Replace with the latest version of Streamlit if needed
+pillow==9.5.0  # For handling images
